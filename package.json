@@ -1,0 +1,13 @@
+{
+  "name": "@damdrara/vm-fetch",
+  "version": "1.0.0",
+  "description": "Shared fetch interception library for Violentmonkey userscripts",
+  "author": "Damdrara",
+  "license": "MIT",
+  "private": true,
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/damdrara/vm-fetch.git"
+  }
+}
